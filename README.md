@@ -4,7 +4,7 @@ Spotify song or plalist downloader
 ✅ Uses spotdl’s built-in duplicate checking
 ✅ Retains:
 
-Interactive URL input
+Interactive URL inpu
 
 Limit (1, 2, all)
 
